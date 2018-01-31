@@ -82,7 +82,7 @@ h6 {
 
 .textaboutme {
   color: white;
-  font-family: 'Helvetica Neue';
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   font-size: 18px;
 }
 
@@ -97,7 +97,7 @@ h6 {
 
 #about-gracja {
   color: white;
-  font-family: 'Helvetica Neue';
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   margin: auto; 
   text-align: center;
   font-size: 45px;
