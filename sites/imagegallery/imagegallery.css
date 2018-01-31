@@ -1,0 +1,71 @@
+body{
+	padding: 70px;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background: #f2f3f3;
+}
+
+.navbar-inverse{
+	background: #2c3e50;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+}
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+
+.image1 {
+  background-image: url(https://source.unsplash.com/5brvJbR1Pn8);
+}
+
+.image2 {
+  background-image: url(https://source.unsplash.com/eKU3JGNCCMg);
+}
+
+.image3 {
+  background-image: url(https://source.unsplash.com/W8KTS-mhFUE);
+}
+
+.image4 {
+  background-image: url(https://source.unsplash.com/CQl3Y5bV6FA);
+}
+
+.image5 {
+  background-image: url(https://source.unsplash.com/PC_lbSSxCZE);
+}
+
+.image6 {
+  background-image: url(https://source.unsplash.com/BiSFSSQtAmg);
+}
+
+.image7 {
+  background-image: url(https://source.unsplash.com/FPfuKVQ42D4);
+}
+
+.image8 {
+  background-image: url(https://source.unsplash.com/O453M2Liufs);
+}
+.image9 {
+  background-image: url(https://source.unsplash.com/wORTURlz7jg);
+}
+
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center center;
+}
+
+<img src="https://source.unsplash.com/5brvJbR1Pn8">
+<img src="https://source.unsplash.com/eKU3JGNCCMg">
+<img src="https://source.unsplash.com/Xy2GcIfewf0">
+<img src="https://source.unsplash.com/CQl3Y5bV6FA">
+<img src="https://source.unsplash.com/PC_lbSSxCZE">
+<img src="https://source.unsplash.com/BiSFSSQtAmg">
+<img src="https://source.unsplash.com/FPfuKVQ42D4">
+<img src="https://source.unsplash.com/O453M2Liufs">
+<img src="https://source.unsplash.com/wORTURlz7jg"> --
